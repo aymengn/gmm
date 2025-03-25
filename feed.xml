@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
     <title>Gaussian Mixture Models (GMM)</title>
-    <link href="https://gmm-blog.pages.dev/feed.xml" rel="self" />
-    <link href="https://gmm-blog.pages.dev" />
+    <link href="https://gaussian.pages.dev/feed.xml" rel="self" />
+    <link href="https://gaussian.pages.dev" />
     <updated>2025-03-25T15:03:07+01:00</updated>
     <author>
         <name>aymen guendez</name>
     </author>
-    <id>https://gmm-blog.pages.dev</id>
+    <id>https://gaussian.pages.dev</id>
 
     <entry>
         <title>The Mathematical Foundation of Gaussian Mixture Models (GMM)</title>
         <author>
             <name>aymen guendez</name>
         </author>
-        <link href="https://gmm-blog.pages.dev/the-mathematical-foundation-of-gaussian-mixture-models-gmm.html"/>
-        <id>https://gmm-blog.pages.dev/the-mathematical-foundation-of-gaussian-mixture-models-gmm.html</id>
+        <link href="https://gaussian.pages.dev/the-mathematical-foundation-of-gaussian-mixture-models-gmm.html"/>
+        <id>https://gaussian.pages.dev/the-mathematical-foundation-of-gaussian-mixture-models-gmm.html</id>
 
         <updated>2025-03-25T15:03:07+01:00</updated>
             <summary>
