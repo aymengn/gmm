@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
-    <title>Gaussian Mixture Models (GMM)</title>
+    <title>Gaussian</title>
     <link href="https://gaussian.pages.dev/feed.xml" rel="self" />
     <link href="https://gaussian.pages.dev" />
     <updated>2025-03-25T15:03:07+01:00</updated>
@@ -20,7 +20,7 @@
         <updated>2025-03-25T15:03:07+01:00</updated>
             <summary>
                 <![CDATA[
-                     Gaussian Mixture Models (GMM) are a powerful probabilistic tool for modeling complex datasets. At their core, GMM rely on the mathematical principles of probability theory, linear algebra, and optimization. Understanding the mathematical foundation of GMM is essential for grasping how they work and why they&hellip;
+                     Gaussian Mixture Models (GMM) are a powerful probabilistic tool for modeling complex&hellip;
                 ]]>
             </summary>
         <content type="html">
